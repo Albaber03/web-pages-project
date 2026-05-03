@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; background-color: #1a1a1a; color: #e0e0e0; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 40px; }
+        h1, h2 { color: #4CAF50; }
+        .card { background: #2d2d2d; padding: 25px; border-radius: 12px; margin-bottom: 20px; border-left: 5px solid #4CAF50; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 10px; padding-left: 15px; border-left: 2px solid #555; }
+    </style>
+</head>
+<body>
+
+<h1>Professional Profile</h1>
+
+<div class="card">
+    <h2>Education & Current Studies</h2>
+    <p>I am currently enrolled at <strong>Central Piedmont Community College (CPCC)</strong>, majoring in the <strong>AI/ML program</strong>. My studies focus heavily on Python development, specifically utilizing <strong>NumPy</strong> and <strong>vectorization</strong> for data processing.</p>
+</div>
+
+<div class="card">
+    <h2>Background & Experience</h2>
+    <ul>
+        <li><strong>Technical Skills:</strong> Python, Systems Analysis, Machine Learning Fundamentals.</li>
+        <li><strong>Professional Experience:</strong> Extensive background in <strong>food service and banquet operations</strong>, developing strong communication and fast-paced problem-solving skills.</li>
+        <li><strong>Activities:</strong> Competitive <strong>Rainbow Six Siege</strong> player (Ubisoft Platinum Rank) and local soccer tournament participant.</li>
+    </ul>
+</div>
+
+<div class="card">
+    <h2>Interests & Hobbies</h2>
+    <p>Outside of coding, I am an avid <strong>Chess</strong> player and enjoy spending time on the <strong>golf</strong> course. I also have a passion for PC hardware building and smart home automation.</p>
+</div>
+
+<div class="card">
+    <h2>Future Plans</h2>
+    <p>My immediate goal is to transition into an <strong>AI Development</strong> role or a Junior ML Engineer position. I plan to continue my education toward a Bachelor’s degree in Computer Science to further specialize in autonomous systems.</p>
+</div>
+
+</body>
+</html>
